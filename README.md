@@ -1,0 +1,1 @@
+An example notebook, adapted from Michele Cappellari (ppxf, https://www-astro.physics.ox.ac.uk/~cappellari/software/), to fit templates to galaxy spectra and estimate the stellar velocity dispersions.
